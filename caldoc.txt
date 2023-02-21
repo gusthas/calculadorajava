@@ -1,0 +1,4 @@
+Uma calculadora básica em Java, com as funções de: mais, menos, dividir e multiplicar 
+
+O intuito do sistema é facilitar a maneira de fazer contas poupando tempo e 
+ papel, sendo feito de forma automática pelo sistema. 
